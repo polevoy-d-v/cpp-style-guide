@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Форматирование](форматирование.md)
+* [Форматирование](formatting.md)
 * [Комментирование кода](comments.md)
 
