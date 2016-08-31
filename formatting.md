@@ -27,7 +27,6 @@ for (i = 0; i < nElements; i++) {
 }
 ```
 
-
 :-1:
 ```cpp
 "statement" 
@@ -36,27 +35,22 @@ for (i = 0; i < nElements; i++) {
 }
 ```
 
-
 :+1:
 ```cpp
 for ("init"; "cond"; "update")
 {
 }
 ```
-
-
 :-1:
 ```cpp
 for ("init"; "condition"; "update") {}
 ```
-
 
 :-1:
 ```cpp
 for ("init"; "condition"; "update") 
 {}
 ```
-
 
 ### Длина строки исходного файла ограничена 80 символами. Используйте разрывы строк для более длинных строк.
 
