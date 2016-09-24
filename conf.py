@@ -92,12 +92,12 @@ pygments_style = 'vs'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
+html_theme = 'default'
 #html_theme = 's12.cppnewb'
 #html_theme = 'traditional'
-#html_theme = 'default'
 #html_theme = 'scrolls'
 #html_theme = 'epub'
-html_theme = "sphinx_rtd_theme"
+#html_theme = "sphinx_rtd_theme"
 
 
 
