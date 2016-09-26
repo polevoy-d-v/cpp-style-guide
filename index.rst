@@ -17,4 +17,3 @@
    formatting
    formatting-splitting
    formatting-spaces
-   names
